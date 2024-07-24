@@ -9,8 +9,8 @@ Use Case:
 
 
 Welcome screen:
-•	Press on Log In button to move to Log In page.
-•	Press on Sign Up button to move to Sign Up page.
+- Press on Log In button to move to Log In page.
+- Press on Sign Up button to move to Sign Up page.
  ![image](https://github.com/user-attachments/assets/e5c7a279-1cb9-4e88-8fdb-f364c5652582)
 
 
