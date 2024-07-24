@@ -11,8 +11,7 @@ Use Case:
 Welcome screen:
 - Press on Log In button to move to Log In page.
 - Press on Sign Up button to move to Sign Up page.
-![image](https://github.com/user-attachments/assets/e5c7a279-1cb9-4e88-8fdb-f364c5652582)
-
+![image](https://github.com/user-attachments/assets/cd1e80fa-451c-4b26-a752-a5ba7da0b0b8)
 
 Log In screen:
 - Enter username and password.
